@@ -1,4 +1,4 @@
-# Excel DB Data Manager
+# DB Data Manager
 Excel DB Data Manager is built using Microsoft Excel and allows data from SQL Database tables to be viewed, added and edited using 
 Excel Worksheets. Database table schema details can also be viewed. 
 
